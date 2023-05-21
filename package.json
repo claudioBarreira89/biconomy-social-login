@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@biconomy/core-types": "^2.0.1",
+    "@biconomy/smart-account": "^2.0.1",
+    "@biconomy/web3-auth": "^2.0.0",
     "@types/node": "20.2.1",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
